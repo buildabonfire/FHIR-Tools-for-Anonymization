@@ -1,13 +1,27 @@
+//{
+//  "dataFactoryName": "DataFactoryName",
+//  "resourceLocation": "WestUS",
+//  "sourceStorageAccountName": "sourceStorageAccountName",
+//  "sourceStorageAccountKey": "sourceStorageAccountKey",
+//  "destinationStorageAccountName": "destinationStorageAccountName",
+//  "destinationStorageAccountKey": "destinationStorageAccountKey",
+//  "sourceStorageContainerName": "sourceStorageContainerName",
+//  "destinationStorageContainerName": "destinationStorageContainerName",
+//  "sourceContainerFolderPath": "",
+//  "destinationContainerFolderPath": "",
+//  "activityContainerName": "customactivityContainerName"
+//}
+
 {
-  "dataFactoryName": "DataFactoryName",
-  "resourceLocation": "WestUS",
-  "sourceStorageAccountName": "sourceStorageAccountName",
-  "sourceStorageAccountKey": "sourceStorageAccountKey",
-  "destinationStorageAccountName": "destinationStorageAccountName",
-  "destinationStorageAccountKey": "destinationStorageAccountKey",
-  "sourceStorageContainerName": "sourceStorageContainerName",
-  "destinationStorageContainerName": "destinationStorageContainerName",
-  "sourceContainerFolderPath": "",
-  "destinationContainerFolderPath": "",
-  "activityContainerName": "customactivityContainerName"
+  "dataFactoryName": "bonfhirdatafactory1",
+  "resourceLocation": "EastUS",
+  "sourceStorageAccountName": "bonfhirstorage1",
+  "sourceStorageAccountKey": "TzMuR/U+9s5kiI5sj8AkDHSzJE9GxuFbHB2zLwpWuJrWl5tZd/NaMmgXB+kFnaBAmVYHh3ab8XOTO76JbpBEUg==",
+  "destinationStorageAccountName": "bonfhirstorage1",
+  "destinationStorageAccountKey": "TzMuR/U+9s5kiI5sj8AkDHSzJE9GxuFbHB2zLwpWuJrWl5tZd/NaMmgXB+kFnaBAmVYHh3ab8XOTO76JbpBEUg==",
+  "sourceStorageContainerName": "fhirfilesource",
+  "destinationStorageContainerName": "fhirfiledestination",
+  "sourceContainerFolderPath": "20210721T144940-de0f5c23-a053-4e7b-bec3-705fb9e085f1",
+  "destinationContainerFolderPath": "20210721T144940",
+  "activityContainerName": "pipelineactivity"
 }
